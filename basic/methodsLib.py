@@ -1,0 +1,3 @@
+
+def printLocation():
+    print("Frankfurt")
